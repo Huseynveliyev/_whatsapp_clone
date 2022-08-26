@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068155187390",
+    "project_id": "wp-chat-1df3c",
+    "storage_bucket": "wp-chat-1df3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068155187390:android:e377507ecac836337feeef",
+        "android_client_info": {
+          "package_name": "com.wcrop.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068155187390-6rl7rigcv604rmgl1cc7futc04jp2vt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJi0D0SuSjYIl8A0rw0YEf6ltImrJO3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068155187390-6rl7rigcv604rmgl1cc7futc04jp2vt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
